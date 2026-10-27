@@ -1,0 +1,5 @@
+1,1,pc de sol,renovo,67,0,renzo,16,512,ctx,4051,parlantes,si
+1,2,pabloneitor,pera,222,0,intol,8,12,nose,144hz,sepe,si
+2,3,iphone12.5promax,peraphone,32,0,snaptragon,4,32,144,monotono,104
+3,5,lapto,Xo,777,0,etesech,1444,512,ctm3050,144hz,mono,si,1444
+1,23,erik,lenovo,1200,12,amd,12,512,rtx,144hz,normal,si
